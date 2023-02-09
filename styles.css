@@ -1,0 +1,71 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://res.cloudinary.com/dblpy3gli/image/upload/v1667834129/sea_rocks_moss_132634_3840x2400_wagtac.jpg');
+    background-size: 100%;
+    color: white;
+  }
+  
+  h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 42px;
+  }
+  
+  #header {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  #search-input {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 25%;
+    margin-bottom: 10px;
+  }
+  
+  #search-Button {
+    padding: 10px 20px;
+    color: rgb(0, 0, 0);
+    border: 1px solid blue;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 20px;
+  }
+  
+  #location {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 24px;
+  }
+  
+  #current {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 18px;
+  }
+  
+  .city {
+    font-weight: bold;
+    font-size: 38px;
+  }
+  
+  .date {
+    margin-top: 10px;
+  }
+  
+  .temp {
+    margin-top: 10px;
+    font-size: 36px;
+  }
+  
+  .weather {
+    margin-top: 10px;
+  }
+  
+  .hi-low {
+    margin-top: 10px;
+  }
+  
